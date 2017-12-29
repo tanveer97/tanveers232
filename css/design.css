@@ -1,0 +1,40 @@
+#upper{
+	background-color: #ffffff;
+	height: 9%;
+	width: 100%;
+}
+#icon{
+	height: 10%;
+	width: 10%;
+}
+#head{
+	margin-left: 5%;
+	height: 5%;
+	width: 5%;
+}
+#nationalicon{
+	margin-left: 5%;
+	height: 5%;
+	width: 5%;
+}
+#businessicon{
+	margin-left: 5%;
+	height: 5%;
+	width: 5%;
+}
+#sportsicon{
+	margin-left: 5%;
+	height: 5%;
+	width: 5%;
+}
+#list{
+	height: 100%;
+	width: 30%;
+	background-color: #ffffff;
+}
+#content{
+	alignment-baseline: after-edge;
+	height: 100%;
+	width: 30%;
+	background-color: #ffffff;
+}
